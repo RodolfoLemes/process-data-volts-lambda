@@ -1,2 +1,5 @@
+bin/
+*.zip
+
 .env
 *.png
